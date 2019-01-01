@@ -1,0 +1,14 @@
+#Config
+.idea/
+.project/
+.ijwb/
+*.iml
+
+#Generated
+*.jar
+*.log
+*~
+*/target/
+target/
+out/
+.tscache
